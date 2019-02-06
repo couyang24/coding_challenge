@@ -1,10 +1,11 @@
+words = ["gin", "zen", "gig", "msg"]
+
 class Solution:
     def uniqueMorseRepresentations(self, words: 'List[str]') -> 'int':
 
         morse = [".-","-...","-.-.","-..",".","..-.","--.","....","..",".---","-.-",".-..","--","-.","---",".--.","--.-",".-.","...","-","..-","...-",".--","-..-","-.--","--.."]
 
         alphabet = 'abcdefghijklmnopqrstuvwxyz'
-        words = ["gin", "zen", "gig", "msg"]
 
         uniqueMorseCode = set()
         for word in words:
@@ -13,3 +14,4 @@ class Solution:
                 eachCode = morse[alphabet.index(eachLetter)]
                 code = code + eachCode
             uniqueMorseCode.add(code)
+        return len(uniqueMorseCode)
