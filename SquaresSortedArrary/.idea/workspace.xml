@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab9e3a9e-5e4f-4ca9-ab49-8e0a2b8d3f57" name="Default Changelist" comment="">
+    <list default="true" id="bee2d2c1-a6f9-4c31-a0fc-30d17d6c7c7e" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../UniqueEmail/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UniqueEmail/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/toLowerCase.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/toLowerCase.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../toLowerCase/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../toLowerCase/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +20,7 @@
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-end-line="2" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -61,8 +61,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="toLowerCase" type="b2602c69:ProjectViewProjectNode" />
-              <item name="toLowerCase" type="462c0819:PsiDirectoryNode" />
+              <item name="SquaresSortedArrary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SquaresSortedArrary" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -87,11 +87,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ab9e3a9e-5e4f-4ca9-ab49-8e0a2b8d3f57" name="Default Changelist" comment="" />
-      <created>1549413662604</created>
+      <changelist id="bee2d2c1-a6f9-4c31-a0fc-30d17d6c7c7e" name="Default Changelist" comment="" />
+      <created>1549434695792</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1549413662604</updated>
+      <updated>1549434695792</updated>
     </task>
     <servers />
   </component>
@@ -122,7 +122,7 @@
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-end-line="2" selection-end-column="41" />
         </state>
       </provider>
     </entry>
