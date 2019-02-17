@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="373446e5-3cf6-4f39-916e-883476e4aedd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/bigCountries.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/bigCountries.iml" afterDir="false" />
+    <list default="true" id="6a8228f4-79b8-4ee5-bf3b-ccdc960035ce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bigCountries/.idea/bigCountries.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../bigCountries/.idea/bigCountries.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bigCountries/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bigCountries/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,7 +15,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -32,7 +46,7 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="195" />
-    <option name="y" value="-9" />
+    <option name="y" value="-10" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -42,8 +56,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sortArraybyParity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sortArraybyParity" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -63,22 +87,23 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="373446e5-3cf6-4f39-916e-883476e4aedd" name="Default Changelist" comment="" />
-      <created>1550196454103</created>
+      <changelist id="6a8228f4-79b8-4ee5-bf3b-ccdc960035ce" name="Default Changelist" comment="" />
+      <created>1550393490446</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1550196454103</updated>
+      <updated>1550393490446</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="840" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
+      <window_info active="true" anchor="bottom" id="Python Console" visible="true" weight="0.329927" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -95,7 +120,11 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/main.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
