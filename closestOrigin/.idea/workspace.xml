@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/main.py" description="class Solution:&#10;    def sortArrayByParityII(self, ..." line="3" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7cf36f49-7a9f-4869-b9a1-3b1feb99c810" name="Default Changelist" comment="" />
+    <list default="true" id="ddaaacc6-bba4-4107-83ca-830d4fa0fd3a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sortArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sortArray/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -57,8 +57,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="sortArray" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sortArray" type="462c0819:PsiDirectoryNode" />
+              <item name="closestOrigin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="closestOrigin" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -84,11 +84,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7cf36f49-7a9f-4869-b9a1-3b1feb99c810" name="Default Changelist" comment="" />
-      <created>1551055118844</created>
+      <changelist id="ddaaacc6-bba4-4107-83ca-830d4fa0fd3a" name="Default Changelist" comment="" />
+      <created>1551059691673</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1551055118844</updated>
+      <updated>1551059691673</updated>
     </task>
     <servers />
   </component>
@@ -118,8 +118,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
