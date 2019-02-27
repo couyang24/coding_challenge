@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b2b2eb0-effc-4e47-97ca-91a3a631af8f" name="Default Changelist" comment="" />
+    <list default="true" id="899a4778-e372-4f26-b15d-0896c08cca93" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uncommonWord/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../uncommonWord/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="65" column="31" lean-forward="true" selection-start-line="65" selection-start-column="31" selection-end-line="65" selection-end-column="31" />
+            <state relative-caret-position="476">
+              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
             </state>
           </provider>
         </entry>
@@ -39,10 +42,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1938" />
+    <option name="x" value="1764" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
-    <option name="height" value="979" />
+    <option name="height" value="1017" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -54,8 +57,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="uncommonWord" type="b2602c69:ProjectViewProjectNode" />
-              <item name="uncommonWord" type="462c0819:PsiDirectoryNode" />
+              <item name="islandPerimeter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="islandPerimeter" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -84,11 +87,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0b2b2eb0-effc-4e47-97ca-91a3a631af8f" name="Default Changelist" comment="" />
-      <created>1551209486962</created>
+      <changelist id="899a4778-e372-4f26-b15d-0896c08cca93" name="Default Changelist" comment="" />
+      <created>1551294924501</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1551209486962</updated>
+      <updated>1551294924501</updated>
     </task>
     <servers />
   </component>
@@ -118,8 +121,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="65" column="31" lean-forward="true" selection-start-line="65" selection-start-column="31" selection-end-line="65" selection-end-column="31" />
+        <state relative-caret-position="476">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
         </state>
       </provider>
     </entry>
