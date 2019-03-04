@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="685177eb-7e7b-45e9-b39c-61f62e605bba" name="Default Changelist" comment="" />
+    <list default="true" id="5d7003d5-cb2d-44e2-b011-78fc2473534e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reverseLetter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../reverseLetter/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="22" column="16" lean-forward="true" selection-start-line="18" selection-end-line="29" selection-end-column="18" />
+            <state relative-caret-position="85">
+              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -55,8 +58,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="reverseLetter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="reverseLetter" type="462c0819:PsiDirectoryNode" />
+              <item name="letterPermutation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="letterPermutation" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -81,11 +84,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="685177eb-7e7b-45e9-b39c-61f62e605bba" name="Default Changelist" comment="" />
-      <created>1551640197066</created>
+      <changelist id="5d7003d5-cb2d-44e2-b011-78fc2473534e" name="Default Changelist" comment="" />
+      <created>1551653846777</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1551640197066</updated>
+      <updated>1551653846777</updated>
     </task>
     <servers />
   </component>
@@ -115,8 +118,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="22" column="16" lean-forward="true" selection-start-line="18" selection-end-line="29" selection-end-column="18" />
+        <state relative-caret-position="85">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
         </state>
       </provider>
     </entry>
