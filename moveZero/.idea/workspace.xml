@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0720c819-a5d5-4a94-86a0-ec876419d02d" name="Default Changelist" comment="" />
+    <list default="true" id="e7235054-1e6f-4f50-af7b-a9903c3feaec" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maxConsecutive/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../maxConsecutive/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="10" selection-start-line="13" selection-end-line="23" selection-end-column="23" />
+            <state relative-caret-position="377">
+              <caret line="33" column="22" lean-forward="true" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -55,8 +58,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="maxConsecutive" type="b2602c69:ProjectViewProjectNode" />
-              <item name="maxConsecutive" type="462c0819:PsiDirectoryNode" />
+              <item name="moveZero" type="b2602c69:ProjectViewProjectNode" />
+              <item name="moveZero" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -81,11 +84,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0720c819-a5d5-4a94-86a0-ec876419d02d" name="Default Changelist" comment="" />
-      <created>1551669797037</created>
+      <changelist id="e7235054-1e6f-4f50-af7b-a9903c3feaec" name="Default Changelist" comment="" />
+      <created>1551671482800</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1551669797037</updated>
+      <updated>1551671482800</updated>
     </task>
     <servers />
   </component>
@@ -97,7 +100,7 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Python Console" visible="true" weight="0.30948904" />
+      <window_info active="true" anchor="bottom" id="Python Console" visible="true" weight="0.329927" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -115,8 +118,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="10" selection-start-line="13" selection-end-line="23" selection-end-column="23" />
+        <state relative-caret-position="377">
+          <caret line="33" column="22" lean-forward="true" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
         </state>
       </provider>
     </entry>
