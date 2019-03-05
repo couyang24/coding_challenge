@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1cd17dc-934e-4e67-9ead-0d1b30c6240f" name="Default Changelist" comment="" />
+    <list default="true" id="49324388-e65d-4300-8d9f-0974910824f6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../validAnagram/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../validAnagram/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="11">
+              <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -39,7 +41,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1807" />
+    <option name="x" value="2138" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
@@ -54,8 +56,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="validAnagram" type="b2602c69:ProjectViewProjectNode" />
-              <item name="validAnagram" type="462c0819:PsiDirectoryNode" />
+              <item name="buySellStock" type="b2602c69:ProjectViewProjectNode" />
+              <item name="buySellStock" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -84,11 +86,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c1cd17dc-934e-4e67-9ead-0d1b30c6240f" name="Default Changelist" comment="" />
-      <created>1551826430644</created>
+      <changelist id="49324388-e65d-4300-8d9f-0974910824f6" name="Default Changelist" comment="" />
+      <created>1551827324557</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1551826430644</updated>
+      <updated>1551827324557</updated>
     </task>
     <servers />
   </component>
@@ -118,8 +120,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="11">
+          <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="10" />
         </state>
       </provider>
     </entry>
