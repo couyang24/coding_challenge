@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4eb34d0-45a7-4b37-ae87-8d514a35478c" name="Default Changelist" comment="" />
+    <list default="true" id="4a6c7783-5035-4db8-ac34-1066f5d4c812" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rotateString/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rotateString/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +17,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+            <state relative-caret-position="51">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -39,10 +43,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1574" />
+    <option name="x" value="2058" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
-    <option name="height" value="1013" />
+    <option name="height" value="1052" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -54,8 +58,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="rotateString" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rotateString" type="462c0819:PsiDirectoryNode" />
+              <item name="rangeAdditionII" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rangeAdditionII" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -84,11 +88,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a4eb34d0-45a7-4b37-ae87-8d514a35478c" name="Default Changelist" comment="" />
-      <created>1551895227870</created>
+      <changelist id="4a6c7783-5035-4db8-ac34-1066f5d4c812" name="Default Changelist" comment="" />
+      <created>1551897527774</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1551895227870</updated>
+      <updated>1551897527774</updated>
     </task>
     <servers />
   </component>
@@ -118,8 +122,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
