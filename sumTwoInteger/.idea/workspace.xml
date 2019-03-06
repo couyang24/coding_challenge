@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="57f0a975-6e6c-4772-a10c-93fe25449ec7" name="Default Changelist" comment="" />
+    <list default="true" id="d34ec604-39cd-4367-9d6e-54d4bae31fe4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ajax" beforeDir="false" afterPath="$PROJECT_DIR$/../Ajax" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cambridge" beforeDir="false" afterPath="$PROJECT_DIR$/../Cambridge" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LH-Analysis" beforeDir="false" afterPath="$PROJECT_DIR$/../LH-Analysis" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a-analysis" beforeDir="false" afterPath="$PROJECT_DIR$/../a-analysis" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b-analysis" beforeDir="false" afterPath="$PROJECT_DIR$/../b-analysis" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brock_analysis" beforeDir="false" afterPath="$PROJECT_DIR$/../brock_analysis" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caledon" beforeDir="false" afterPath="$PROJECT_DIR$/../caledon" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../majorElement/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../majorElement/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../o-analysis" beforeDir="false" afterPath="$PROJECT_DIR$/../o-analysis" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="17">
+              <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -39,10 +51,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-371" />
-    <option name="y" value="-12" />
+    <option name="x" value="81" />
+    <option name="y" value="-8" />
     <option name="width" value="1936" />
-    <option name="height" value="1092" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -54,8 +66,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="constructRectangle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="constructRectangle" type="462c0819:PsiDirectoryNode" />
+              <item name="sumTwoInteger" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sumTwoInteger" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -84,11 +96,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="57f0a975-6e6c-4772-a10c-93fe25449ec7" name="Default Changelist" comment="" />
-      <created>1551901607307</created>
+      <changelist id="d34ec604-39cd-4367-9d6e-54d4bae31fe4" name="Default Changelist" comment="" />
+      <created>1551826113514</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1551901607307</updated>
+      <updated>1551826113514</updated>
     </task>
     <servers />
   </component>
@@ -118,8 +130,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="17">
+          <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
         </state>
       </provider>
     </entry>
